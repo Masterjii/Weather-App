@@ -4,7 +4,7 @@ Welcome to my Simple Weather App! This project was built using React.js, Materia
 
 ## Live Demo
 
-You can check out the live demo of the Simple Weather App [here](Your Live Demo Link Here).
+You can check out the live demo of the Simple Weather App [Clik here](https://live-weather-app-10.netlify.app/).
 
 ## Features
 
