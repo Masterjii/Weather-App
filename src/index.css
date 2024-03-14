@@ -1,0 +1,26 @@
+
+
+.SearchBox{
+    /* justify-content: center; */
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.infoBox{
+    text-align: center;
+}
+
+.carContainer {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
